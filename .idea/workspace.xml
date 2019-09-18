@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e58bc116-ec2a-42f7-871a-764a2526b4ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/peojectImg/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +15,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="270">
+              <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -97,15 +95,7 @@
               <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ZhangMing2018.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="peojectImg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dist" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -142,6 +132,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZhangMing2018.github.io" />
       <recent name="E:\ZhangMing2018.github.io\images\peojectImg" />
       <recent name="E:\ZhangMing2018.github.io\images\icon" />
     </key>
@@ -208,6 +199,7 @@
       <workItem from="1567128075414" duration="1303000" />
       <workItem from="1567132125605" duration="9539000" />
       <workItem from="1567167641765" duration="2550000" />
+      <workItem from="1568788803859" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="just so so">
       <created>1567128216562</created>
@@ -258,17 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1567132467356</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="just so so">
+      <created>1568788915179</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568788915179</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14018000" />
+    <option name="totallyTimeSpent" value="15471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -377,24 +375,15 @@
     <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Content1.vue" />
     <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/App.vue" />
     <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/main.js" />
-    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/111.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/index.html" />
+    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/111.html" />
+    <entry file="file://$PROJECT_DIR$/dist/static/js/403.756b9075.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="270">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

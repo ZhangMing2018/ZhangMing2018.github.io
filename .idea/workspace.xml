@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e58bc116-ec2a-42f7-871a-764a2526b4ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/peojectImg/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,30 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+            <state relative-caret-position="297">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/two.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,6 +36,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Vue File" />
       </list>
     </option>
   </component>
@@ -57,10 +47,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/first.html" />
-        <option value="$PROJECT_DIR$/two.html" />
         <option value="$PROJECT_DIR$/images/icon/ss.html" />
         <option value="$PROJECT_DIR$/images/peojectImg/s.html" />
         <option value="$PROJECT_DIR$/css/s.html" />
+        <option value="$PROJECT_DIR$/two.html" />
+        <option value="$PROJECT_DIR$/vueProject/project-name/src/components/Footer.vue" />
+        <option value="$PROJECT_DIR$/vueProject/project-name/src/router/index.js" />
+        <option value="$PROJECT_DIR$/vueProject/project-name/src/App.vue" />
+        <option value="$PROJECT_DIR$/vueProject/project-name/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/vueProject/project-name/src/components/Header.vue" />
+        <option value="$PROJECT_DIR$/vueProject/project-name/src/components/Content1.vue" />
+        <option value="$PROJECT_DIR$/../phpStudyWWW/111.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -77,7 +74,6 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -109,20 +105,13 @@
               <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="icon" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ZhangMing2018.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="peojectImg" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,17 +119,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/icon" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZhangMing2018.github.io\images\peojectImg" />
       <recent name="E:\ZhangMing2018.github.io\images\icon" />
     </key>
   </component>
@@ -156,6 +158,43 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="npm.run">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="run" />
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="D:/myProgram/node/node" />
+      <package-manager value="D:/myProgram/node/node_global/node_modules/npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/vueProject/project-name/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="D:/myProgram/node/node" />
+      <package-manager value="D:/myProgram/node/node_global/node_modules/npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/vueProject/project-name/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="D:/myProgram/node/node" />
+      <package-manager value="D:/myProgram/node/node_global/node_modules/npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.run" />
+      <item itemvalue="npm.build" />
+    </list>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,7 +206,8 @@
       <option name="presentableId" value="Default" />
       <updated>1567128074291</updated>
       <workItem from="1567128075414" duration="1303000" />
-      <workItem from="1567132125605" duration="266000" />
+      <workItem from="1567132125605" duration="9539000" />
+      <workItem from="1567167641765" duration="2550000" />
     </task>
     <task id="LOCAL-00001" summary="just so so">
       <created>1567128216562</created>
@@ -211,17 +251,24 @@
       <option name="project" value="LOCAL" />
       <updated>1567132368440</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="just so so">
+      <created>1567132467356</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567132467356</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2195000" />
+    <option name="totallyTimeSpent" value="14018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2531983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -230,7 +277,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1724512" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,22 +355,48 @@
     <entry file="file://$PROJECT_DIR$/images/peojectImg/bg_img.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/index.html" />
+    <entry file="file://$PROJECT_DIR$/two.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <caret line="5" column="92" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/two.html">
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/.eslintrc.js" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/.eslintignore" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/build/webpack.base.conf.js" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/build/webpack.dev.conf.js" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/router/index.js" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Footer.vue" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Header.vue" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/HelloWorld.vue" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Content1.vue" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/App.vue" />
+    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/main.js" />
+    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="1296">
+          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/111.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
           <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

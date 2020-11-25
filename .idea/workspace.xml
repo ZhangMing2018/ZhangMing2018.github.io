@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e58bc116-ec2a-42f7-871a-764a2526b4ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="e58bc116-ec2a-42f7-871a-764a2526b4ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +9,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,68 +21,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/first.html" />
-        <option value="$PROJECT_DIR$/images/icon/ss.html" />
-        <option value="$PROJECT_DIR$/images/peojectImg/s.html" />
-        <option value="$PROJECT_DIR$/css/s.html" />
-        <option value="$PROJECT_DIR$/two.html" />
-        <option value="$PROJECT_DIR$/vueProject/project-name/src/components/Footer.vue" />
-        <option value="$PROJECT_DIR$/vueProject/project-name/src/router/index.js" />
-        <option value="$PROJECT_DIR$/vueProject/project-name/src/App.vue" />
-        <option value="$PROJECT_DIR$/vueProject/project-name/build/webpack.base.conf.js" />
-        <option value="$PROJECT_DIR$/vueProject/project-name/src/components/Header.vue" />
-        <option value="$PROJECT_DIR$/vueProject/project-name/src/components/Content1.vue" />
-        <option value="$PROJECT_DIR$/../phpStudyWWW/111.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="97" />
-    <option name="y" value="6" />
-    <option name="width" value="1751" />
-    <option name="height" value="1021" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="ZhangMing2018.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="ZhangMing2018.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="ZhangMing2018.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="ZhangMing2018.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ZhangMing2018" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="github" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="io" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="dist" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1kmSCOkfXVj25H2vgOE07kaDu4S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -132,22 +54,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="E:\ZhangMing2018.github.io" />
       <recent name="E:\ZhangMing2018.github.io\images\peojectImg" />
       <recent name="E:\ZhangMing2018.github.io\images\icon" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="npm.run">
     <configuration default="true" type="js.build_tools.npm">
@@ -200,6 +111,7 @@
       <workItem from="1567132125605" duration="9539000" />
       <workItem from="1567167641765" duration="2550000" />
       <workItem from="1568788803859" duration="1453000" />
+      <workItem from="1606304146550" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="just so so">
       <created>1567128216562</created>
@@ -260,66 +172,15 @@
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15471000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1724512" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.329718" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -338,58 +199,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just so so" />
     <option name="LAST_COMMIT_MESSAGE" value="just so so" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/icon/bitbug_favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/peojectImg/s.html" />
-    <entry file="file://$PROJECT_DIR$/images/icon/ss.html" />
-    <entry file="file://$PROJECT_DIR$/css/s.html" />
-    <entry file="file://$PROJECT_DIR$/images/peojectImg/bg_img.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/index.html" />
-    <entry file="file://$PROJECT_DIR$/two.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="92" selection-start-line="5" selection-start-column="92" selection-end-line="5" selection-end-column="92" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/.eslintrc.js" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/.eslintignore" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/build/webpack.base.conf.js" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/build/webpack.dev.conf.js" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/router/index.js" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Footer.vue" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Header.vue" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/HelloWorld.vue" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/components/Content1.vue" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/App.vue" />
-    <entry file="file://$PROJECT_DIR$/vueProject/project-name/src/main.js" />
-    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/index.html" />
-    <entry file="file://$PROJECT_DIR$/../phpStudyWWW/111.html" />
-    <entry file="file://$PROJECT_DIR$/dist/static/js/403.756b9075.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
